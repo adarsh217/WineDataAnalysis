@@ -1,3 +1,6 @@
+# Wine Data Analysis using Machine Learning
+
+## Insights from the data analysis
 ### Insight 1: Correlation between price and points
 
 To analyze the correlation between price and points, you can use the following code snippet:
