@@ -74,9 +74,3 @@ plt.title('Top-rated Wineries')
 plt.xticks(rotation=45)
 plt.show()
 ```
-
-Remember to replace `'your_file.csv'` with the name of the CSV file you downloaded from Google Sheets. This code uses seaborn and matplotlib to create the visualizations. Make sure you have these libraries installed in your Python environment. If you don't have them installed, you can install them using:
-
-```bash
-pip install seaborn matplotlib
-```
